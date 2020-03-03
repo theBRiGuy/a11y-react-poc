@@ -4,7 +4,7 @@ import { Route, Link, Switch, BrowserRouter as Router } from 'react-router-dom';
 import './index.scss';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
-import Home from './pages/Home';
+import Home from './pages/Home/Home';
 import NotFound from './pages/NotFound';
 import * as serviceWorker from './serviceWorker';
 
